@@ -27,7 +27,7 @@ npm install
 npm start
 ```
 
-## Hot to Use
+## Hot to Use:
 
 Go to the API page
 ```sh
@@ -35,7 +35,7 @@ https://forkify-api.herokuapp.com/v2
 ```
 Generate one API Key then copy and paste on file
 ```sh
-src/js/config.js and change on line 4 ("export const KEY") for the key that you generate on the API page.
+src/js/config.js | change on line 4 ("export const KEY") for the key that you generate on the API page.
 ```
 
 ## Created by
