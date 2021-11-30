@@ -30,5 +30,5 @@ npm start
 ## Created by
 
 ```sh
-[www.fernandogiroto.com](https://www.fernandogiroto.com)
+www.fernandogiroto.com
 ```
